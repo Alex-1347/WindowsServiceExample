@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://votpuskkod.ru/</Value>
+    </Setting>
+    <Setting Name="UpdateIntervalMinutes" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="OutPathRoot" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">G:\Tmp\9\</Value>
+    </Setting>
+    <Setting Name="LogFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">G:\Tmp\9\Log.txt</Value>
+    </Setting>
+    <Setting Name="IISAppName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Default Web Site/</Value>
+    </Setting>
+    <Setting Name="IISvDir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Promokodi/</Value>
+    </Setting>
+    <Setting Name="AvoidCreateVdir" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DelaySec" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
